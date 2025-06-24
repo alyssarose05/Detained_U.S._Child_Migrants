@@ -1,5 +1,5 @@
 best_estimator_: DecisionTreeClassifier
-DecisionTreeClassifier(min_samples_leaf=5, random_state=0)
+DecisionTreeClassifier(max_depth=8, min_samples_leaf=2, random_state=0)
 
 DecisionTreeClassifier
-DecisionTreeClassifier(min_samples_leaf=5, random_state=0)
+DecisionTreeClassifier(max_depth=8, min_samples_leaf=2, random_state=0)
