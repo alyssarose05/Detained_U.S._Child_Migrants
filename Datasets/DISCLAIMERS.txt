@@ -1,3 +1,0 @@
-- The "raw_data.csv" dataset is not mine. Link to original by the New York Times: https://github.com/nytimes/hhs-child-migrant-data
-
-- The "Countries by continents.csv" dataset is not mine. Link to original on Kaggle here: https://www.kaggle.com/datasets/hserdaraltan/countries-by-continent
