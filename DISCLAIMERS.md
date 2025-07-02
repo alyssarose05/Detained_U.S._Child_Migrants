@@ -1,6 +1,6 @@
 # Disclaimers
 
-The two datasets in the [Borrowed](https://github.com/alyssarose05/Detained\_U.S.\_Child\_Migrants/tree/main/Borrowed) folder are not mine and were used for non-commercial purposes to make this project possible. **The final products are my own work.**
+The two datasets in the [Borrowed](https://github.com/alyssarose05/Detained\_U.S.\_Child\_Migrants/tree/main/Borrowed) folder are not mine and were used for non-commercial purposes to make this project possible. **The final deliverables are my own work.**
 
 
 
