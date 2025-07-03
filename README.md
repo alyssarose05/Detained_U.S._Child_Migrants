@@ -10,8 +10,8 @@ After being disappointed in my interview performance and rejection, I have decid
 Latin American immigration first-hand.
 
 ## My Personal Experience
-I am fortunate to have been born in the United States to U.S. citizens and do not need to fear detainment of any sort. My father's family entered the U.S. legally as permanent residents back in the 1960s. However, I cannot help but wonder what happens to families who are desperate to
-leave their countries and make the difficult decision to enter the U.S. through other means (let alone with children), especially since I have a Latin American and Spanish background. I cannot imagine the trauma that child migrants must go through to be taken away from their
+I am fortunate to have been born in the United States to U.S. citizens and do not need to fear detainment of any sort. My father's family entered the U.S. legally as permanent residents back in the 1960s for a better economy. 
+However, I cannot help but wonder what happens to families who are desperate toleave their countries and make the difficult decision to enter the U.S. through other means (let alone with children), especially since I have a Latin American and Spanish background. I cannot imagine the trauma that child migrants must go through to be taken away from their
 families in search for a better life.
 
 ## Future Work
